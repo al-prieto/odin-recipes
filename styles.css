@@ -1,0 +1,63 @@
+body {
+    background-image: linear-gradient(to right, #ECE9E6 , #ffffff);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #232b2b;
+}
+
+section{
+   padding-top: 32px;
+   padding-bottom: 32px; 
+}
+
+.container{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-1{
+    text-align: center;
+    
+}
+
+.main-title{
+    font-size: 40px;
+    text-align: center;    
+    color: #ECE9E6;
+    position: relative;
+    z-index: 100;
+    margin-bottom: -8%;
+    font-size: 48px;
+    text-shadow: #fff .5px 0 10px;   
+      
+}
+
+ul li {
+    list-style-type: circle;
+  }
+
+a {
+    text-decoration: none;
+    color: #232b2b;
+    
+}
+
+
+a:active {
+    color: blue;
+}
+
+
+
+a[tabindex]:focus {
+    color:blue;
+    outline: none;
+}
+
+.img-odin{
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+
+
